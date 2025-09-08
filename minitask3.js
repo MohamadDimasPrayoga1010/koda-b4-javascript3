@@ -35,7 +35,7 @@ wait("John", 1500)
   });
 
 
-async-await
+//async-await
 
 async function antrian() {
     try {
@@ -52,5 +52,6 @@ async function antrian() {
 
 
 antrian()
+
 
 
