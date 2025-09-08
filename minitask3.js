@@ -41,7 +41,7 @@ async function antrian() {
     try {
       const antrian1 = await wait("John", 1500);
       console.log(antrian1);
-      const antrian2 = await wait(0, 2000);
+      const antrian2 = await wait("Ed", 2000);
       console.log(antrian2);
       const antrian3 = await wait("Jane", 500);
       console.log(antrian3);
