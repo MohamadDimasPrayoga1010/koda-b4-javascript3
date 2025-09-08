@@ -2,7 +2,10 @@
 
 //1. at()
 // Mengambil dan mengembalikan item pada indeks
+const text = "Belajar";
 
+console.log(text.at(0));
+console.log(text.at(3));  
 
 
 
